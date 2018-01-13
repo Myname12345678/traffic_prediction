@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# custom
+datasets
+datasets1
+datasets2
+.idea
